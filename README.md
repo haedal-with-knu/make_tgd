@@ -12,7 +12,7 @@
 
 ### 1차시
 - 1교시: CSS가 뭔지, css 적용 전/후 비교해서 간단히 설명?  
-- 2교시: https://jsfiddle.net/intelyshoen/v08z9y53/ 이용해서 배경색깔 바꾸고, ㅇ게더 로고 바꾸기  
+- 2교시: https://jsfiddle.net/intelyshoen/v08z9y53/ 이용해서 배경색깔 바꾸고, ○게더 로고 바꾸기  
 (헥스코드, 어도비 팔레트 생성기 https://color.adobe.com/ko/create 이용해서 설명)
 
 
