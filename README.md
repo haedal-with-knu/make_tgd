@@ -10,12 +10,16 @@
 
 ### 1차시
 - 1교시: CSS가 뭔지, css 적용 전/후 비교해서 간단히 설명?  
-
-2교시: https://jsfiddle.net/intelyshoen/v08z9y53/ 이용해서 배경색깔 바꾸기까지. 
+- 2교시: https://jsfiddle.net/intelyshoen/v08z9y53/ 이용해서 배경색깔 바꾸기까지. 
 
 ### 2차시
 - 
+-
+
 ### 3차시
-- 
+-
+-
+
 ### 4차시
-- 
+-
+-
