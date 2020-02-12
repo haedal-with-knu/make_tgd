@@ -11,11 +11,12 @@
 
 ### 1차시
 - 1교시: CSS가 뭔지, css 적용 전/후 비교해서 간단히 설명?  
-- 2교시: https://jsfiddle.net/intelyshoen/v08z9y53/ 이용해서 배경색깔 바꾸고, ㅇ게더 로고 바꾸기
+- 2교시: https://jsfiddle.net/intelyshoen/v08z9y53/ 이용해서 배경색깔 바꾸고, ㅇ게더 로고 바꾸기  
+(헥사코드, 어도비 팔레트 생성기 https://color.adobe.com/ko/create 이용해서 설명)
 - 과제: 본인이 원하는 색깔, 로고로 트게더 바꿔오기
 
 ### 2차시
-- 1교시: https://noonnu.cc/index로 글꼴 바꾸기.
+- 1교시: https://noonnu.cc/index 로 글꼴 바꾸기.
 - 2교시: 게시판, 메뉴바 모양 바꾸기
 - 과제: 본인 트게더 적용
 
