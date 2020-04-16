@@ -1,4 +1,4 @@
-```
+```css
 /* 배경 그라데이션 */
 html {
 background: linear-gradient(#a4fc97, #6a63fb, #f9244b);

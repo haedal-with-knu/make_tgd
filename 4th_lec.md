@@ -1,4 +1,4 @@
-```
+```css
 /*좌측 메뉴 호버링*/
 .menu-wrapper>a{
      display: block; 

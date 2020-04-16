@@ -1,4 +1,4 @@
-```
+```css
 /* 위로가기 바꾸기 */
 #movetotop img{display:none}
 #movetotop{display: inline-block;opacity:1;background:url(https://cdn.discordapp.com/attachments/682866632237907983/686832252818423821/unknown.png);
