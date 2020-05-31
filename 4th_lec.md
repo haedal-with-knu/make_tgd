@@ -1,4 +1,4 @@
-'''css
+```css
 
 /* 댓글 수 */
 #article-list>.article-list-row>.item>.list-title>small.comment-count {
@@ -83,4 +83,4 @@ font-weight: bold;
 }
 
 
-'''
+```
