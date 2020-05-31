@@ -36,10 +36,6 @@ display: none;
 header #right-search-form>input[type='text'] {
  margin-top: 0;
     border: 2px SOLID #b350fa;
-    border-top-left-radius: 2px;
-    border-top-right-radius: 2px;
-    border-bottom-left-radius: 2px;
-    border-bottom-right-radius: 2px;
     border-radius: 7px;
 }
 /* 각종 테두리, 선 */
