@@ -1,4 +1,24 @@
 ```css
+
+/* 댓글 수 */
+#article-list>.article-list-row>.item>.list-title>small.comment-count {
+color: #b350fa;
+}
+
+#article-reply-area > .header h5 {
+	color: #b350fa;
+}
+
+/* 작성자 색상 */
+#article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
+color: #000000;
+}
+/* 추천수 색상 */
+#article-list>.article-list-row>.item>.list-header>span {
+color: white;
+background: #b350fa;
+}
+
 /*좌측 메뉴 호버링*/
 .menu-wrapper>a{
      display: block; 
@@ -17,18 +37,18 @@
 .menu-wrapper>a:hover{ border-bottom: 6px; color: #b350fa}
 
 .menu-wrapper>a:after { 
-     content: "";
+     content: ""; 
      height: 100%; 
      left: 0; 
      top: 0; 
-     width: 0px;  
+     width: 0px; 
      position: absolute; 
      transition: all 0.3s ease 0s; 
      -webkit-transition: all 0.3s ease 0s; 
      z-index: -1;
    }
-.menu-wrapper>a:hover:after{ width: 100%; }
-.menu-wrapper>a:nth-child(n):after { background-color: #f7cdf2; }
+.menu-wrapper>a:hover:after{ width: 100%;}
+.menu-wrapper>a:nth-child(n):after { background-color: #f7cdf2;}
    
   /* 페이지 버튼*/
 .pagination>.active>a,
@@ -61,4 +81,6 @@ background: #b350fa;
 border: 1px solid #b350fa;
 font-weight: bold;
 }
+
+
 ```
